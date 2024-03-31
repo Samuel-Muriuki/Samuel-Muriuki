@@ -44,3 +44,7 @@ I'm curious, enthusiastic, and a student most of the time. The rest of the time,
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Muriuki&count_private=true&theme=tokyonight&line_height=52">
 </p>
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
