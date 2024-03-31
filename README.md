@@ -1,10 +1,30 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/Samuel-Muriuki" target="blank">
+Samm</a></h1>
 
-I'm curious, enthusiastic, and a student most of the time. The rest of the time, I enjoy writing code.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&random=false&width=435&lines=A+curious+and+enthusiastic+learner;Passionate+tech+explorer;Enjoys+writing+code." alt="Typing SVG">
+  </a>
+</p>
 
-## 🌐 Socials:
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-muriuki-/)
+- 🔭 I’m currently working at <a href="#" target="blank">Tinka Networks Limited</a> 
+
+- 🌱 I’m currently Working on Frontend Dashboards(React)
+
+- 🤝 I’m available for freelancing.
+
+- 🌱 I’m currently learning <a href="https://fullstackopen.com/en/about/" target="blank">MERN</a> 
+
+
+- 💬 Ask me about **React & UI/UX** 
+
+- 📫 How to reach me:&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&)](https://www.linkedin.com/in/samuel-muriuki-/)
+
+<br/>
 
 # 💻 Tech Stack:
 
