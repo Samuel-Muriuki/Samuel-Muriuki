@@ -89,7 +89,7 @@
 
 <!-- Octocat Image -->
 <p align="center">
-  <img width="300" height="300" src="https://github.com/Samuel-Muriuki/Samm/blob/main/assets/octocat-1711880312906.png?raw=true"></a>
+  <img width="300" height="300" src="https://github.com/Samuel-Muriuki/Samuel-Muriuki/blob/main/assets/octocat-1711880312906.png?raw=true"></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Muriuki&count_private=true&theme=tokyonight&line_height=52">
 </p>
 
