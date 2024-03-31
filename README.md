@@ -41,7 +41,8 @@ I'm curious, enthusiastic, and a student most of the time. The rest of the time,
 ![](https://github-readme-stats.vercel.app/api?username=Samuel-Muriuki&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Samuel-Muriuki&theme=blue-green&hide_border=false)<br/>
 
-<p align="center"> 
+<p align="center">
+  <img width="300" height="300" src="https://github.com/Samuel-Muriuki/Samm/blob/main/assets/octocat-1711880312906.png?raw=true"></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Muriuki&count_private=true&theme=tokyonight&line_height=52">
 </p>
 
@@ -56,3 +57,5 @@ I'm curious, enthusiastic, and a student most of the time. The rest of the time,
 ## 💰 You can help me by Donating
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/elsamm)
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/Samuel-Muriuki/Samm/main/assets/el.svg" />
