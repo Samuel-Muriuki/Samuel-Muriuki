@@ -48,3 +48,7 @@ I'm curious, enthusiastic, and a student most of the time. The rest of the time,
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Samuel-Muriuki&icon=6&color=0)](https://visitcount.itsvg.in)
