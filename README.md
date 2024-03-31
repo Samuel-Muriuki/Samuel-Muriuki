@@ -31,3 +31,7 @@ I'm curious, enthusiastic, and a student most of the time. The rest of the time,
 ###### Design:
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+###### Hardware:
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
