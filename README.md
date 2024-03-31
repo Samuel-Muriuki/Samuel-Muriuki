@@ -28,3 +28,6 @@ I'm curious, enthusiastic, and a student most of the time. The rest of the time,
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) &nbsp;&nbsp; ![NVM](https://img.shields.io/badge/NVM-%2300ACD7.svg?style=for-the-badge&logo=npm&logoColor=white)
 
+###### Design:
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
