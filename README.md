@@ -8,6 +8,10 @@
   </a>
 </p>
 
+<!-- Visitor Counter -->
+
+[![](https://visitcount.itsvg.in/api?id=Samuel-Muriuki&icon=6&color=1)](https://visitcount.itsvg.in)
+
 <!-- GIF Image -->
 <p align="center">
   <a target="_blank">
@@ -94,10 +98,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-
-<!-- Visitor Counter -->
-
-[![](https://visitcount.itsvg.in/api?id=Samuel-Muriuki&icon=6&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
 
