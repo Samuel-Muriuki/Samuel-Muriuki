@@ -35,3 +35,12 @@ I'm curious, enthusiastic, and a student most of the time. The rest of the time,
 ###### Hardware:
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Samuel-Muriuki&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Samuel-Muriuki&theme=blue-green&hide_border=false)<br/>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Muriuki&count_private=true&theme=tokyonight&line_height=52">
+</p>
