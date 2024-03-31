@@ -24,3 +24,7 @@ I'm curious, enthusiastic, and a student most of the time. The rest of the time,
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) &nbsp;&nbsp; ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
+###### Package Management:
+
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) &nbsp;&nbsp; ![NVM](https://img.shields.io/badge/NVM-%2300ACD7.svg?style=for-the-badge&logo=npm&logoColor=white)
+
