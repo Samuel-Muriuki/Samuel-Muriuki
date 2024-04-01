@@ -106,4 +106,4 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/elsamm)
 
 <!-- Thank You SVG Image -->
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/Samuel-Muriuki/Samm/main/assets/el.svg" />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/Samuel-Muriuki/Samuel-Muriuki/main/assets/el.svg" />
