@@ -21,9 +21,8 @@
 
 <!-- Personal Information -->
 
-- 🔭 I’m currently working at <a href="#" target="blank">Tinka Networks Limited</a>
 
-- 🌱 I’m currently Working on Frontend Dashboards(React)
+- 🌱 I’m currently freelancing as a FullStack Developer
 
 - 🤝 I’m available for freelancing.
 
@@ -31,7 +30,6 @@
 
 - 💬 Ask me about **React & UI/UX**
 
-- 📫 Reach me on &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&)](https://www.linkedin.com/in/samuel-muriuki-/)
 
 <br/>
 
