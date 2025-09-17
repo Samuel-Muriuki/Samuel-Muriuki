@@ -4,7 +4,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&random=false&width=435&lines=A+curious+and+enthusiastic+learner;Passionate+tech+explorer;Enjoys+writing+code." alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&random=false&width=400&height=100&lines=A+curious+and+enthusiastic+learner;Passionate+tech+explorer;Enjoys+writing+code." alt="Typing SVG">
   </a>
 </p>
 
@@ -80,16 +80,6 @@
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Samuel-Muriuki&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Samuel-Muriuki&theme=blue-green&hide_border=false)<br/>
-
-<!-- Octocat Image -->
-<p align="center">
-  <img width="300" height="300" src="https://github.com/Samuel-Muriuki/Samuel-Muriuki/blob/main/assets/octocat-1711880312906.png?raw=true"></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Muriuki&count_private=true&theme=tokyonight&line_height=52" alt="My Octocat Image">
-</p>
 
 ### ✍️ Random Dev Quote
 
