@@ -1,13 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Samuel-Muriuki" target="blank">Samm</a></h1>
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&random=false&width=200&lines=A+curious+and+enthusiastic+learner;Passionate+tech+explorer;Enjoys+writing+code." alt="Typing SVG">
-  </a>
-</p>
-
 <!-- Visitor Counter -->
 
 [![](https://visitcount.itsvg.in/api?id=Samuel-Muriuki&icon=6&color=1)](https://visitcount.itsvg.in)
