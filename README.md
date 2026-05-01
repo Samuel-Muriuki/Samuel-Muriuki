@@ -121,13 +121,22 @@
 
 ---
 
-<!-- ===== GITHUB STATS (side-by-side) ===== -->
+<!-- ===== GITHUB STATS (transparent / glass-style) ===== -->
 <h2 align="center">📊 GitHub Stats</h2>
+
+<!--
+  GLASS NOTE: GitHub strips CSS, so true backdrop-filter glassmorphism
+  isn't possible. theme=transparent inherits the viewer's GitHub theme
+  (dark mode = dark glass; light mode = light glass) — that adaptive
+  see-through behavior is the closest analog.
+
+  Want frosted glass instead? Swap the URL line below for:
+  https://gh-readme-profile.vercel.app/api?username=Samuel-Muriuki&bg_color=135,1A1B27,2D3052&title_color=70A5FD&text_color=38BDAE&icon_color=BF91F3
+-->
 
 <p align="center">
   <a href="https://github.com/Samuel-Muriuki">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuel-Muriuki&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=38BDAE" alt="Samm's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Muriuki&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=1A1B27&title_color=70A5FD&text_color=38BDAE" alt="Top Languages" />
+    <img src="https://gh-readme-profile.vercel.app/api?username=Samuel-Muriuki&theme=transparent" alt="Samm's GitHub Stats" />
   </a>
 </p>
 
